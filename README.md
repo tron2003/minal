@@ -1,4 +1,4 @@
-# Bank Statement PDF to Excel Converter 📄➡️📊  
+# Bank Statement PDF to Excel Converter 📄➞📈  
 
 This is a simple **Streamlit** app that converts bank statement PDFs into an Excel file. It extracts text-based data and provides an easy way to download the converted file.  
 
@@ -13,11 +13,11 @@ Make sure you have Python installed, then install dependencies:
 
 ```sh
 pip install streamlit pdfplumber pandas xlsxwriter
+```
 
+## ▶️ Running the App  
 
-##  For Running 
 ```sh
 streamlit run app.py
-
-
+```
 
