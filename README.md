@@ -14,3 +14,10 @@ Make sure you have Python installed, then install dependencies:
 ```sh
 pip install streamlit pdfplumber pandas xlsxwriter
 
+
+For Running 
+```sh
+streamlit run app.py
+
+
+
