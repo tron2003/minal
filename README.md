@@ -15,7 +15,7 @@ Make sure you have Python installed, then install dependencies:
 pip install streamlit pdfplumber pandas xlsxwriter
 
 
-For Running 
+##  For Running 
 ```sh
 streamlit run app.py
 
